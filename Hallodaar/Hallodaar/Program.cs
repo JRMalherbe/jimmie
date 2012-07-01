@@ -9,7 +9,7 @@ namespace Hallodaar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo daar");
+            Console.WriteLine("Hallo daar hansie");
         }
     }
 }
